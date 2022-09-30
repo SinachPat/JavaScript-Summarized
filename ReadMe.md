@@ -1,0 +1,1 @@
+![JavaScript-Summarized](JSSummarized.jpg "JavaScript Summarized - First Edition")
