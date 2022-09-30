@@ -1,1 +1,8 @@
 ![JavaScript-Summarized](JSSummarized.jpg "JavaScript Summarized - First Edition")
+
+### Overview
+***Software is eating the work really.*** From finance, education, health to real estate, name it. All sectors of the world is gradually needing an application of software technology to run things behind the threads. If you do the analysis you’ll find that the impact of this software technologies are really making it possible for companies in this sectors to achieve efficiency. This is a need and it needs to be met.
+
+About software, the majority of the experience we have had with software tech is on the web and currently to be able to build a more accessible software tool is has to be built on the web so we have it that learning **how to** is another need one of the most powerful tool to build for the web is JavaScript and this is why I am working on meeting the need of Learning JavaScript and **TypeScript.**
+
+Personally I am always excited to meeting needs, I’ve been working in the tech space in Nigeria and Africa for 3 years now and I must say that over the years things has progressed really fast but there’s still need for more most especially in the human resource development part. There’s currently a mass depletion of the talent pool in Nigeria where most top tech talents are exiting the country to other countries to find and build a better life for themselves so there’s currently a need to up skill more tech talents in a way that is fast and also efficient. So I’m working on this material as a quick reference for anyone looking to learn how to build for the web using **JavaScript.**
